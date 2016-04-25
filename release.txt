@@ -1,0 +1,2 @@
+com.pixeltech.ptorrent.searchmate 902 1.1 https://github.com/pixeltech42/TorrentSearchMate/raw/master/com.pixeltech.ptorrent.searchmate.release-1.1-b902.apk
+org.transdroid.search 28 3.5 https://github.com/erickok/transdroid-search/releases/download/v3.5/transdroid-search-3.5.apk
